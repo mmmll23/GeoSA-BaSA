@@ -142,5 +142,16 @@ Our implementation is mainly based on following repositories. Thanks for their g
 * [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
 * [Rein](https://github.com/w1oves/Rein)
 * [ViT-Adapter](https://github.com/czczup/ViT-Adapter)
+* 
+## Citation
+If you find our code or data helpful, please cite our paper:
+```bibtex
+@article{luo2025geosabasa,
+  title={Domain Generalization for Semantic Segmentation of Remote Sensing Images via Vision Foundation Model Fine-tuning},
+  author={Luo, Muying and Zan, Yujie and Khoshelham, Kourosh and Ji, Shunping},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  year={2025}
+}
+```
 
 
