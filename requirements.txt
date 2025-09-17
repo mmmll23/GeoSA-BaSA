@@ -1,0 +1,9 @@
+numpy
+ftfy
+scipy
+prettytable
+matplotlib
+regex
+timm
+einops
+rasterio
