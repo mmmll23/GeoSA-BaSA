@@ -150,7 +150,10 @@ If you find our code helpful, please cite our paper:
   title={Domain Generalization for Semantic Segmentation of Remote Sensing Images via Vision Foundation Model Fine-tuning},
   author={Luo, Muying and Zan, Yujie and Khoshelham, Kourosh and Ji, Shunping},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  year={2025}
+  volume = {230},
+  pages = {126-146},
+  year={2025},
+  doi = {https://doi.org/10.1016/j.isprsjprs.2025.09.004},
 }
 ```
 
