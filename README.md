@@ -146,14 +146,16 @@ Our implementation is mainly based on following repositories. Thanks for their g
 ## Citation
 If you find our code helpful, please cite our paper:
 ```bibtex
-@article{LUO2025DG,
-  title={Domain Generalization for Semantic Segmentation of Remote Sensing Images via Vision Foundation Model Fine-tuning},
-  author={Luo, Muying and Zan, Yujie and Khoshelham, Kourosh and Ji, Shunping},
-  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  volume = {230},
-  pages = {126-146},
-  year={2025},
-  doi = {https://doi.org/10.1016/j.isprsjprs.2025.09.004},
+@article{LUO2025126,
+title = {Domain generalization for semantic segmentation of remote sensing images via vision foundation model fine-tuning},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {230},
+pages = {126-146},
+year = {2025},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2025.09.004},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271625003569},
+author = {Muying Luo and Yujie Zan and Kourosh Khoshelham and Shunping Ji}
 }
 ```
 
