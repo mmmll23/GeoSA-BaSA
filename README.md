@@ -116,7 +116,7 @@ GeoSA-BaSA
 ## Evaluation
   Run the evaluation:
   ```
-  python tools/test.py configs/dinov2/geosa_basa_dinov2_mask2former_512x512_bs1x4_whumix.py checkpoints/geosa_basa_whumix.pth --backbone ./pretrained_weights/dinov2_converted.pth
+  python tools/test.py configs/dinov2/geosa_basa_dinov2_mask2former_512x512_bs1x4_whumix.py checkpoints/whumix_dinov2_geosa_basa.pth --backbone ./pretrained_weights/dinov2_converted.pth
   ```
   For most of provided release checkpoints, you can run this command to evluate
   ```
